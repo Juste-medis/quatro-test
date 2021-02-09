@@ -1,0 +1,7 @@
+android
+node_modules
+ios
+node_modules
+.expo
+__tests__
+web-build

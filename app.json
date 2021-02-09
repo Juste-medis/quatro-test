@@ -1,0 +1,12 @@
+{
+  "name": "res3",
+  "displayName": "res3",
+  "expo": {
+    "name": "res3",
+    "slug": "res3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
